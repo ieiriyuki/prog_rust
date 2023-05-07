@@ -1,1 +1,1 @@
-"# Programming Rust" 
+# Programming Rust
